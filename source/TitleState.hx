@@ -47,7 +47,6 @@ import flixel.util.FlxAxes;
 import lime.app.Application;
 import openfl.Assets;
 
-WindowColorMode.setDarkMode();
 
 using StringTools;
 typedef TitleData =
@@ -139,11 +138,10 @@ class TitleState extends MusicBeatState
 
 		swagShader = new ColorSwap();
 		super.create();
-
+        WindowColorMode.setDarkMode();
 		FlxG.save.bind('funkin', 'ninjamuffin99');
 
 		ClientPrefs.loadPrefs();
-
 		#if CHECK_FOR_UPDATES
 		if(ClientPrefs.checkForUpdates && !closedState) {
 			trace('checking for update');
