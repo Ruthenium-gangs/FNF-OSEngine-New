@@ -3,6 +3,7 @@ package;
 #if desktop
 import Discord.DiscordClient;
 import sys.thread.Thread;
+import hxwindowmode.WindowColorMode;
 #end
 import flixel.FlxG;
 import flixel.FlxSprite;
@@ -45,6 +46,8 @@ import flixel.util.FlxAxes;
 #end
 import lime.app.Application;
 import openfl.Assets;
+
+WindowColorMode.setDarkMode();
 
 using StringTools;
 typedef TitleData =
