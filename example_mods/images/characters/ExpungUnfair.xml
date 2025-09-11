@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="ExpungUnfair.png" width="3305" height="3331">
+  <SubTexture name="Right0004.png" x="0" y="0"  width="643" height="565" frameX="-33" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Down0000.png" x="643" y="0"  width="638" height="565" frameX="-33" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Down0001.png" x="1281" y="0"  width="634" height="566" frameX="-33" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Down0002.png" x="0" y="565"  width="630" height="565" frameX="-33" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Down0003.png" x="630" y="565"  width="626" height="565" frameX="-33" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Up0003.png" x="1915" y="0"  width="599" height="560" frameX="-33" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Down0004.png" x="2514" y="0"  width="599" height="558" frameX="-33" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Up0002.png" x="2514" y="558"  width="597" height="560" frameX="-33" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Up0001.png" x="1915" y="560"  width="590" height="560" frameX="-33" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Up0004.png" x="1256" y="566"  width="584" height="563" frameX="-33" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Up0000.png" x="1256" y="1129"  width="584" height="560" frameX="-33" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Left0004.png" x="1256" y="1689"  width="574" height="557" frameX="-33" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Left0003.png" x="2505" y="1118"  width="502" height="559" frameX="-33" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Left0002.png" x="1840" y="1120"  width="496" height="559" frameX="-31" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Right0003.png" x="1840" y="1679"  width="491" height="558" frameX="-212" frameY="-123" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Right0002.png" x="2336" y="1677"  width="488" height="563" frameX="-219" frameY="-117" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Right0001.png" x="1830" y="2237"  width="483" height="572" frameX="-226" frameY="-103" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle0002.png" x="1830" y="2809"  width="391" height="522" frameX="-202" frameY="-168" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle0001.png" x="2221" y="2809"  width="389" height="521" frameX="-215" frameY="-170" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Left0000.png" x="2313" y="2240"  width="473" height="564" frameX="-11" frameY="-132" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Left0001.png" x="2824" y="1677"  width="481" height="563" frameX="-16" frameY="-133" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Right0000.png" x="2786" y="2240"  width="474" height="577" frameX="-233" frameY="-100" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle0005.png" x="0" y="2246"  width="396" height="549" frameX="-151" frameY="-141" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle0003.png" x="0" y="2795"  width="392" height="536" frameX="-177" frameY="-154" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle0000.png" x="392" y="2795"  width="398" height="535" frameX="-150" frameY="-155" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle0006.png" x="396" y="2246"  width="396" height="549" frameX="-151" frameY="-141" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle0004.png" x="792" y="1130"  width="398" height="546" frameX="-154" frameY="-144" frameWidth="720" frameHeight="720"/>
+  <SubTexture name="Idle0007.png" x="0" y="1676"  width="396" height="549" frameX="-151" frameY="-141" frameWidth="720" frameHeight="720"/>
+</TextureAtlas>
