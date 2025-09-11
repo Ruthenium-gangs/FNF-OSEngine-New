@@ -1376,13 +1376,13 @@ class PlayState extends MusicBeatState
 
         if (ClientPrefs.watermarkType == 'Original') {
 			#if desktop
-		    songTxt.text = curSong + " (" + storyDifficultyText + ") " + "| OS " + MainMenuState.osEngineVersion;
+		    songTxt.text = curSong + " (" + storyDifficultyText + ") " + "| Azurite Engine " + MainMenuState.osEngineVersion;
 			#else
-			songTxt.text = curSong + "| OS " + MainMenuState.osEngineVersion;
+			songTxt.text = curSong + "| Azurite Engine " + MainMenuState.osEngineVersion;
 			#end
 		}
-		else if (ClientPrefs.watermarkType == 'Song + OS Ver.') {
-			songTxt.text = curSong + " | OS " + MainMenuState.osEngineVersion;
+		else if (ClientPrefs.watermarkType == 'Song + Azurite Engine Ver.') {
+			songTxt.text = curSong + " | Azurite Engine " + MainMenuState.osEngineVersion;
 		}
 		else if (ClientPrefs.watermarkType == 'Song Only') {
 			songTxt.text = curSong;
