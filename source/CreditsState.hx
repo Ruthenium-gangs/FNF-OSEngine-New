@@ -81,6 +81,9 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Azurite Legacy Team'],
+			['DavesTheBone',		        'daves',		        'Mod owner/charter/artist/main coder,'						    'https://twitter.com/1egg_real',	        'FF6600'],
+			['Daniel_Is_Cool',		        'dan',		        'musican!!!,'						    'https://m.youtube.com/@daniel_is_cool001',	        '0067FF'],
 			['OS Engine Team'],
 			['NotWeuz',		        'weuz',		        'Owner/Lead Programmer of OS Engine',						    'https://github.com/notweuz',	        '8633F2'],
 			['Nelifs',			    'nelifs',			'Main Designer/Programmer of OS Engine',						'https://github.com/nelifs',		    '444444'],
