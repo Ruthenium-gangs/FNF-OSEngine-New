@@ -1,0 +1,2 @@
+v1 1: acercar 2: normal
+v2 speed (solo sirve cuando es el v1: 2)
